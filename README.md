@@ -1,5 +1,5 @@
-# fugetive-testing-repo
+# tugetive-testing-repo
 
-1. main text one
+1. main text twi
+
 2. 3rd commit for test.
-3. main
